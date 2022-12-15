@@ -1,5 +1,6 @@
 #!/bin/bash
 # Create log file
+
 LOGS_FILE="/tmp/install_jenkins.log"
 echo -e "You will find vagrant provisionings logs below"  > ${LOGS_FILE}
 
