@@ -10,7 +10,7 @@ sudo apt-get install -y idle3
 sudo apt-get install snapd -y
 sudo snap install pycharm-community --classic
 
-# keyboard settings
+# keyboard settiings
 sudo apt-get install x11-xkb-utils
 sudo setxkbmap fr
 echo "setxkbmap fr" >> /home/vagrant/.bashrc
